@@ -1,6 +1,7 @@
 # thubicp.com
 Tsinghua University Brain-Inspired Computing Research Center
 BICPT SBPU-C4 Platform Open Source Project documentation and Code
+
 =================SBPU-C4 ======================
 01 SBPU集成环境资料包目录结构.
 ├── 00 天机Sbpu-demo环境搭建全流程文档---d.pdf
@@ -30,6 +31,7 @@ BICPT SBPU-C4 Platform Open Source Project documentation and Code
 ├── 05 SBPU逻辑
 │   └── sbpu_sof_两版工程
 └── 请先看Readme.txt
+
 =================EBPU ======================
 02 Ebpu集成环境资料包目录结构.
 ├── 00 天机Ebpu-demo环境搭建全流程文档---d.pdf
