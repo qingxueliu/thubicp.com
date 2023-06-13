@@ -75,5 +75,6 @@ SBPU-C4是天机的pcie类型的板卡，是当前主力推送的形态，该形
 （6）. BICM Toolkit能够嵌入ROS生态，进行移动平台的部署形式
 （7）. BICM组件众多，满足相应要求；
 （8）. BICM具有丰富的调试组件和调试方案，提供动态调试方案；
-（9）. BICM目标是实现的案例包括resnet、mnist、dvs-net、snn-net、mtn-net网络，满足不同部署者的参考需求；（10）.  以上总结，使用BICM Toolkit，能够加速天机类脑平台的部署速度。
-![image](https://github.com/qingxueliu/thubicp.com/assets/31845727/a6d4101d-7e20-42da-a7ef-1714d19136f6)
+（9）. BICM目标是实现的案例包括resnet、mnist、dvs-net、snn-net、mtn-net网络，满足不同部署者的参考需求；
+（10）.  以上总结，使用BICM Toolkit，能够加速天机类脑平台的部署速度。
+
