@@ -2,7 +2,7 @@
 Tsinghua University Brain-Inspired Computing Research Center
 BICPT SBPU-C4 Platform Open Source Project documentation and Code
 
-=================SBPU-C4 ======================  
+=================SBPU-C4 -PCIE ======================  
 SBPU-C4是天机的pcie类型的板卡，是当前主力推送的形态，该形态已建立完整的文档和工具链说明，如下内容包括：加速卡手册说明、deb格式的driver包、deb格式的sdk、resnet50命令行验证、resnet50 GUI验证、后期将同步更多的原生云相关的材料  
 
 01 SBPU集成环境资料包目录结构.  
@@ -32,10 +32,11 @@ SBPU-C4是天机的pcie类型的板卡，是当前主力推送的形态，该形
 │   └── img_show 0826--17_25.zip  
 ├── 05 SBPU逻辑  
 │   └── sbpu_sof_两版工程  
-└── 请先看Readme.txt  
+└── 请先看Readme.txt    
+=================SBPU-C4 -UDP ====================== 
+其中SBPU版本还可以以嵌入式版本发布给使用者，该版本具有高带宽的千兆以太具有灵活特征
 
 
- 
 =================EBPU ======================  
 02 Ebpu集成环境资料包目录结构.EBPU是面向嵌入式应用的平台，其主力接口是千兆以太，目前传输速率可达700Mbps，如下内容包括：EBPU手册说明、UDP-Driver等  
 ├── 00 天机Ebpu-demo环境搭建全流程文档---d.pdf  
