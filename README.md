@@ -67,7 +67,38 @@ SBPU-C4是天机的pcie类型的板卡，是当前主力推送的形态，该形
 │   └── Ebpu_sof_两版工程  
 └── 请先看Readme.txt  
 =================MDC ======================    
+03 MDC 集成环境资料包目录结构.EBPU是面向嵌入式应用的平台，其主力接口是千兆以太，目前传输速率可达700Mbps，如下内容包括：MDC 手册说明、UDP-Driver等  
+├── 00 天机MDC -demo环境搭建全流程文档---d.pdf  
+├── 01 UDP驱动  
+│   ├── drv  
+│   ├── intel_fpga_UDP_ip_params.h  
+│   ├── UDP  
+│   ├── prt  
+│   └── user  
+├── 01 UDP驱动安装文档.pdf  
+├── 02 UDP传输层接口  
+│   ├── UDP_recog719(725)(811)(复件)  
+│   ├── UDP_recog719(725)(stable)  
+│   └── Readme.txt  
+├── 02 UDP传输层接口启动.pdf  
+├── 03 ros框架dvpp运行流程.pdf  
+├── 03 ros框架下dvpp包catkin_ws  
+│   ├── 1.txt  
+│   ├── dvpp.launch  
+│   └── src  
+├── 04 qt工程启动流程.pdf  
+├── 04 qt 显示工程包  
+│   ├── build-img_show-Desktop_Qt_5_12_6_GCC_64bit-Debug  
+│   ├── build-img_show-Desktop_Qt_5_12_6_GCC_64bit-Release  
+│   ├── img_show  
+│   └── img_show 0826--17_25.zip  
+├── 05 MDC 逻辑  
+│   └── MDC _sof_两版工程  
+├── 05 MDC SOC使用镜像    
+│   └── MDC _sof_两版工程    
+└── 请先看Readme.txt  
 
+  
 =================BICM Toolkit工作栈-Bitorm======================  
 （1）. BICM Toolkit基于单纯linux平台或者ros平台；  
 （2）. BICM Toolkit提供EBPU版本的UDP和SBPU(CBPU)版本的pcie的SDK包  
